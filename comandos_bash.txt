@@ -1,0 +1,6 @@
+ls -> lista todo os arquivos do diretorio 
+cd -> muda de diretório 
+pwd -> caminho da onde vc esta
+ls -a -> arquivos ocultos 
+.. -> voltar 
+ctrl + l = limpar tela
