@@ -4,3 +4,5 @@ pwd -> caminho da onde vc esta
 ls -a -> arquivos ocultos 
 .. -> voltar 
 ctrl + l = limpar tela
+cat nome do arquivo -> abre ele
+rm -> remove arquivo ou diretorio 
