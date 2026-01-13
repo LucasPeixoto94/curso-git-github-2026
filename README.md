@@ -9,3 +9,7 @@ Criando um git flow para melhor organização do trabalho
 123456
 mais um teste para confirmar. Quero agora botar na pasta develops
 sim, botei na pasta errada
+mais um ultimo teste para verificar se aparecera no git
+preciso verificar para ve se esta ok
+esta acabando tenho ctz
+acho q sim ....
